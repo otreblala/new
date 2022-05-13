@@ -1,5 +1,5 @@
 {
-  "Version": "1.1",
+  "Version": "1.2",
   "ReleaseNotes": "NUEVA VERSIÓN DISPONIBLE",
   "UrlUpdate": "https://raw.githubusercontent.com/otreblala/new/main/Url%20Update",
   "Sms": "",
@@ -40,7 +40,7 @@
     {
       "Name": "TIGO PY 02",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d1atuw0u7h4ays.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: dw9fdothha0b5.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "13.227.125.218",
       "TlsIP": "13.227.125.218",
       "ProxyIP": "",
